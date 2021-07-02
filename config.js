@@ -15,4 +15,3 @@
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc : 'Thế yêu nhá .' ,
     btnAccept: 'Okiiiii lun <3',
-    
